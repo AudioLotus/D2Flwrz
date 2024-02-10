@@ -5,7 +5,6 @@ activity_type:
 activity_name: Deep Stone Crypt  
 aliases:  
   - Taniks Rapture  
-share: "true"  
 ---  
   
 > [!tldr]  

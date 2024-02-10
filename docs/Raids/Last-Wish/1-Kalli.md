@@ -4,8 +4,7 @@ activity_type:
   - Raid  
 activity_name: Last Wish  
 aliases:  
-  - Kalli  
-share: "true"  
+  - Kalli
 ---  
   
 > [!tldr]  

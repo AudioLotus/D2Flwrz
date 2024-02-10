@@ -5,7 +5,6 @@ activity_type:
 activity_name: Last Wish  
 aliases:  
   - Last Wish Intro  
-share: "true"  
 ---  
   
 ----  

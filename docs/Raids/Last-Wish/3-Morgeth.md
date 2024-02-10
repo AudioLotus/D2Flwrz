@@ -4,8 +4,7 @@ activity_type:
   - Raid  
 activity_name: Last Wish  
 aliases:  
-  - Morgeth  
-share: "true"  
+  - Morgeth
 ---  
   
 > [!tldr] tl;dr  

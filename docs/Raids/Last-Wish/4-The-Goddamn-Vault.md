@@ -4,8 +4,7 @@ activity_type:
   - Raid  
 activity_name: Last Wish  
 aliases:  
-  - The Vault  
-share: "true"  
+  - The Vault    
 ---  
   
 **Oh God. The fucking vault**  

@@ -5,7 +5,6 @@ activity_type:
 activity_name: Last Wish  
 aliases:  
   - Riven's Heart  
-share: "true"  
 ---  
   
 > [!tldr]  

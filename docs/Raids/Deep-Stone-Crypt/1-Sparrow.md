@@ -4,8 +4,7 @@ activity_type:
   - Raid  
 activity_name: Deep Stone Crypt  
 aliases:  
-  - Sparrow Encounter  
-share: "true"  
+  - Sparrow Encounter   
 ---  
   
 > [!tldr]  

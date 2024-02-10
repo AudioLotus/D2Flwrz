@@ -1,5 +1,4 @@
 ---  
-share: "true"  
 hide:  
   - navigation  
   - path  

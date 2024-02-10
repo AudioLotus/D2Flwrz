@@ -5,7 +5,6 @@ activity_type:
 activity_name: Deep Stone Crypt  
 aliases:  
   - Deep Stone Intro  
-share: "true"  
 ---  
   
 ## Table of Contents  

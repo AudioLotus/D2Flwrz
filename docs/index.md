@@ -1,6 +1,5 @@
 ---  
-title: Welcome  
-share: "true"  
+title: Welcome   
 hide:  
   - navigation  
   - path  

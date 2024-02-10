@@ -4,8 +4,7 @@ activity_type:
   - Raid  
 activity_name: Deep Stone Crypt  
 aliases:  
-  - Crypt Security  
-share: "true"  
+  - Crypt Security   
 ---  
   
 > [!tldr]  
