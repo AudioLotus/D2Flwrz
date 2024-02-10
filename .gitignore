@@ -1,0 +1,6 @@
+.venv
+.git
+/site
+/search
+.nojekyll
+sitemap.*
