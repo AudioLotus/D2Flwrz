@@ -10,13 +10,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout main
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
 
-      - uses: actions/setup-python@v2
+      - uses: actions/setup-python@v5
         with:
-          python-version: 'pypy-3.6'
+          python-version: 'pypy-3.9'
 
-      - name: Deploy docs
-        uses: afritzler/mkdocs-gh-pages-action@main
+      - name: MkDocs Github Pages Releaser
+        uses: afritzler/mkdocs-gh-pages-action@v9.5.8
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          #GITHUB_DOMAIN: github.myenterprise.com
