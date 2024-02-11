@@ -1,24 +1,25 @@
----  
+---
 title: Introduction to Last Wish  
-activity_type:  
-  - Raid  
+activity_type:
+  - Raid
 activity_name: Last Wish  
-aliases:  
-  - Last Wish Intro  
----  
-  
-----  
-  
+aliases:
+  - Last Wish Intro
+---
+
 ## Table of Contents  
+
   
-[Mechanics](#mechanics)
-[Encounters](#encounters)
-[Bonus Chests](#bonus-chests)
+[Mechanics](#mechanics)  
+[Encounters](#encounters)  
+[Bonus Chests](#bonus-chests)  
 [Tools](#tools)
   
 ----  
   
+
 ## Mechanics  
+
   
 So, in my opinion, Last Wish doesn't really have a consistent set of building mechanics like others do. However, you'll see the same bits and pieces pop up every so often.  
   
@@ -32,39 +33,54 @@ So, in my opinion, Last Wish doesn't really have a consistent set of building me
   
 Also there's a **Wishing Wall** found past Kalli's arena after you jump up some rocks:  
   
-![[../assets/img/LW-Wishing-Wall.jpeg|The Wishing Wall]]  
+![LW-Wishing-Wall](../../assets/img/LW-Wishing-Wall.jpeg)
   
 ---  
   
+
 ## Encounters  
+
   
+
 ##### [Kalli, the Corrupted](1-Kalli.md)
+
   
-Let's match some symbols, cleanse some plates, and hide in closets!  
+Let's match some symbols, cleanse some plates, and hide in closets! For the love of the Traveler just make sure she doesn't finish her song!
   
+
 ##### [Shuro Chi, the Corrupted](2-Shuro-Chi.md)
+
   
-Laser almonds and puzzles abound!  
+Laser almonds and puzzles abound! Just make sure she doesn't sing you to death like Kalli.
   
+
 ##### [Morgeth, the Spirekeeper](3-Morgeth.md)
+
   
-Take strength, get buffs, kill kill kill  
+Take strength, get buffs, kill kill kill otherwise our ogre friend will murderize us.
   
-##### [The Vault](4-The-Goddamn-Vault.md) 
+
+##### [The Vault](4-The-Goddamn-Vault.md)
+
   
 Oh God oh fuck.  
   
+
 ##### [Riven of a Thousand Voices](5-Riven.md)
 
-Poke her toes or shoot her face, cheese style!  
+Poke her toes or shoot her face, cheese style! I'll be posting the actual method soon!
   
-##### [Riven's Heart](6-Queenswalk.md) 
+
+##### [Riven's Heart](6-Queenswalk.md)
+
   
 Carry an orb in a relay race, take strengths, hope for the best!  
   
 ----  
   
+
 ## Bonus Chests  
+
   
 First one right after Kalli below one of the thin platforms you have to cross. You'll have to jump down and land in the entrance. It'll take a few tries  
   
@@ -72,7 +88,9 @@ Second one is right after Shuro Chi, on a cliff. When you see the portal to Morg
   
 ----  
   
+
 ## Tools  
+
   
 This is a *really* helpful tool for the Vault encounter.  
   

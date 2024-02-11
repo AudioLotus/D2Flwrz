@@ -1,21 +1,26 @@
----  
+---
 title: Introduction to Deep Stone Crypt  
-activity_type:  
-  - Raid  
+activity_type:
+  - Raid
 activity_name: Deep Stone Crypt  
-aliases:  
-  - Deep Stone Intro  
----  
+aliases:
+  - Deep Stone Intro
+---
+
   
+
 ## Table of Contents  
+
   
-[Mechanics](#mechanics)
-[Encounters](#encounters)
+[Mechanics](#mechanics)  
+[Encounters](#encounters)  
 [Bonus Chests](#bonus-chests)
   
 ---  
   
+
 ## Mechanics  
+
   
 DSC builds upon a few mechanics throughout the raid. These are primarily through color coded augments (roles) you can pick up through terminals.  
   
@@ -40,17 +45,36 @@ Augments are swapped between various terminals throughout each encounter, there 
   
 ---  
   
+
 ## Encounters  
+
   
-[Sparrows in the Cold](1-Sparrow.md)
-[Crypt Security](2-Crypt-Security.md)
-[Atraks-1, Fallen Exo](3-Atraks-1.md)  
-[Rapture](4-Rapture.md)
-[Taniks, the Abomination](5-Taniks.md)
+
+##### [Sparrows in the Cold](1-Sparrow.md)
+
+Hoo boy it's fucking cold and you need to hurry up to the end.
+
+##### [Crypt Security](2-Crypt-Security.md)  
+
+Welp, you need to break in somehow yeah? So shoot some fuses and be the best operators and scanners you can!
+
+##### [Atraks-1, Fallen Exo](3-Atraks-1.md)
+
+Oh dear God. What have they done? Time to prevent some explosions and go to space.
+
+##### [Rapture](4-Rapture.md)
+
+Haven't we seen this guy before? What the hell is he doing trying to prep nukes?! Let's take him out.
+
+##### [Taniks, the Abomination](5-Taniks.md)
+
+How is he still alive?! Time to put an end to this.
   
 ---  
   
+
 ## Bonus Chests  
+
   
 1. On a pillar by the last dome of the sparrow section.  
 2. On the left side of one of the floating bits of the space walk section.

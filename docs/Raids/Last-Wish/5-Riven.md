@@ -1,12 +1,12 @@
----  
+---
 title: Riven of a Thousand Voices  
-activity_type:  
-  - Raid  
+activity_type:
+  - Raid
 activity_name: Last Wish  
-aliases:  
-  - Riven   
----  
-  
+aliases:
+  - Riven
+---
+
 > [!tldr]  
 > - Fall down to Riven  
 > - Go to crystal room and see if her shadow appears  
@@ -16,20 +16,28 @@ aliases:
 > - Murder  
 > - Jumping puzzle  
 > - More murder  
-  
+
 ---  
   
+
 ## Notes  
+
   
+
 ### Team Setup  
+
   
 No real setup here, we're cheesin' it this time!  
   
+
 ### Details  
+
   
 Really, I honestly don't know the legit way. Just be prepared to wipe a few times til we get it I suppose.  
   
+
 ### Loadouts  
+
   
 **If you're attacking her feet**: Someone with Well and enough Laments to be of concern. Also something long range for final stand.  
   
@@ -37,7 +45,9 @@ Really, I honestly don't know the legit way. Just be prepared to wipe a few time
   
 ----  
   
+
 ## The Cheese  
+
   
 So this is gonna be easy  
   

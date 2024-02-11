@@ -1,12 +1,12 @@
----  
+---
 title: Kalli, the Corrupted  
-activity_type:  
-  - Raid  
+activity_type:
+  - Raid
 activity_name: Last Wish  
-aliases:  
+aliases:
   - Kalli
----  
-  
+---
+
 > [!tldr]  
 > - Find symbols above doors  
 > - Stand on matching plates (don't step in the goo)  
@@ -14,16 +14,22 @@ aliases:
 > - DPS in center  
 > - Go hide in doors when Kalli starts her song  
 > - Murder  
-  
+
 ---  
   
+
 ## Notes  
+
   
+
 ### Team Setup  
+
   
 Honestly there's not much here in terms of setup. Everyone is kinda on their own.  
   
+
 ### Details  
+
   
 There are six symbols in center of the room in three groups of two  
   
@@ -36,15 +42,19 @@ The symbols are above a series of doors. This will be important later.
   
 There are nine total plates, each one divided into three parts.  
   
-![Plates and Blights](../../assets/img/LW-Kalli-Plate.jpg) 
+![Plates and Blights](../../assets/img/LW-Kalli-Plate.jpg)
   
+
 ### Loadouts  
+
   
 Best weapons would be some form of add clear (autorifles and fusions for example) and your choice of power packing heavy (I prefer Lament personally)  
   
 ----  
   
+
 ## Part 1: Plate Cleansing  
+
   
 All Guardians must choose a plate that matches one of the six symbols in the center. Stepping on a plate starts the encounter.  
   
@@ -64,7 +74,9 @@ After you murder the shit out of it, move towards the center.
   
 ----  
   
+
 ## Part 2: Doors and DPS  
+
   
 After some time, a message will appear saying **Kalli conceives an ontological weapon.** She will then move underneath one of the groups of 2 symbols above a set of doors  
   
@@ -75,11 +87,11 @@ If you're lucky, she dies here. If not, a message will appear saying **Kalli pre
 —  
   
 At this point, a fun game of musical chairs begins as underneath her, six doors open  
-  
+
 > [!careful] Why Aren't There Enough Doors?!  
->  
+>
 > If a knight wasn't killed, one of the doors won't open. This is bad.  
-  
+
 ![Open Doors](../../assets/img/LW-Kalli-Doors.jpg)
   
   
@@ -89,10 +101,10 @@ Each guardian has about 10 seconds to enter one of the open doors and hide in th
 After the doors close, a huge wave of energy will wash over the field and the doors will reopen. If you do not enter a room **you will die**.  
   
 Guardians should exit and find Kalli below another set of symbols. Continue dps.  
-  
+
 > [!alt] Alternative Method  
 > Some people like to number the open rooms 1-6 from top to bottom. To me, musical chairs is more fun. This mattered more when the raid first came out.  
-  
+
 This should be enough to finish Kalli off, however if for some reason it doesn't she will begin to prepare her weapon again, and more doors will open. This can happen a total of three times, one per each section.  
   
 —  

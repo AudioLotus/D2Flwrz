@@ -1,8 +1,9 @@
----  
+---
 title: Raids  
-aliases:  
-  - Raids Main  
----  
+aliases:
+  - Raids Main
+---
+
   
 So you're interested in learning about raids, huh?  
   
