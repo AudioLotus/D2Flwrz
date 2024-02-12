@@ -45,14 +45,14 @@ Often times you'll see me use fun boxes for things like warnings and notes. Here
 > [!alt] Alternative Method  
 > Not every party does things the same! Let's look at other options.
 
-> [!lookatthis] Just a Thought!  
-> These are usually just notes and other fun facts.
-
-> [!tldr] tl;dr  
+> [!tl-dr] tl;dr  
 > A basic summary of what's going on.
 
 </div>
 
+!!! pied-piper "Test"
+    Test
+    Test
 ----
 
 ## Sections
@@ -60,11 +60,11 @@ Often times you'll see me use fun boxes for things like warnings and notes. Here
 Things are *heavily* under construction here as I am fairly new at this. Please be patient!
 
 <div class="grid cards" markdown>
-- :D2-class-titan: [Raids](/Raids/)
+- :D2-raid: [Raids](./Raids/)
 
-- :D2-class-titan: Dungeons
+- :D2-dungeon: Dungeons
 
-- :D2-class-titan: Exotic Missions
+- :D2-exotic: Exotic Missions
 </div>
 
 Also check out the [tools I use regularly!](/Tools.md)
@@ -73,17 +73,26 @@ Also check out the [tools I use regularly!](/Tools.md)
 
 ## Come hang sometime!
 
+<div class="grid" markdown>
+<div markdown>
+
 ##### Bungie
 
 MrFlwrz#5967
+</div>
+<div markdown>
 
 ##### Discord
 
 @MrFlwrz  
 [The Colonel's Guard](https://discord.com/invite/SJujZm2WDw)
+</div>
+<div markdown>
 
 ##### Destiny Info
 
 [Raid Report](https://raid.report/pc/4611686018491494988)  
 [Dungeon Report](https://dungeon.report/pc/4611686018491494988)  
 [Destiny Tracker](https://destinytracker.com/destiny-2/profile/bungie/4611686018491494988/overview)
+</div>
+</div>

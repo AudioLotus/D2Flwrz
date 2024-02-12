@@ -76,11 +76,11 @@ Once on the plates, guardians will point their almond to the guardian on their r
   
 Do as much damage to her as you can, but damage is gated to 1/6 of her health per plate.  
   
-After, she will move to the next plate where the adds + almond process will repeat once more.  
+After, she will move to the next plate where the adds + almond process will repeat once more.(1)  
+{ .annotate }
 
-> [!lookatthis] Fun Fact!  
->
-> When the raid first started, it was sometimes necessary to use a taken orb dropped by a knight to interrupt Shuro Chi to get some more damage in. This is no longer the case.  
+1. Fun Fact!  
+When the raid first started, it was sometimes necessary to use a taken orb dropped by a knight to interrupt Shuro Chi to get some more damage in. This is no longer the case.
 
 Now it's puzzle time.  
   

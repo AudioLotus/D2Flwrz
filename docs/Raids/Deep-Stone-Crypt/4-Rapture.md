@@ -46,7 +46,7 @@ Augments are back and have a random chance to become disabled this time around. 
   
 Take note of the three augment terminals, three suppressor points, and three operator panels with one of each found in different sections of the arena. This is why being spread out is a good thing to do.  
   
-In the middle there are four containers. It is *very* important to establish proper callouts for these so guardians know which ones to go to when the time comes (details on this in [[4-Rapture#Part 2 Space Jam|part 2]].)  
+In the middle there are four containers. It is *very* important to establish proper callouts for these so guardians know which ones to go to when the time comes (details on this in [part 2.](#part-2-space-jam))  
   
 Some common callouts:  
 

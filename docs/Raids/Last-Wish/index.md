@@ -23,7 +23,7 @@ aliases:
   
 So, in my opinion, Last Wish doesn't really have a consistent set of building mechanics like others do. However, you'll see the same bits and pieces pop up every so often.  
   
-**Symbols:** One thing that appears often are sets of symbols with either a bird, snake, fish, or dragon in black on a pale green background. Here are the ones I personally use:  
+**Symbols:** One thing that appears often are sets of symbols with either a bird, snake, fish, or dragon in black on a pale green background. Some parties may call each one different things, but here are the callouts I personally use:  
   
 ![Callouts for Last Wish](../../assets/img/LW-symbols.png)
   
