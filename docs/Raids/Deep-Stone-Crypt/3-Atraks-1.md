@@ -68,7 +68,7 @@ Guardians are going to split in to two teams of three as mentioned above.
 Shooting the ball by the elevators starts the encounter where two guardians will immediately go to space.  
 
 > [!lookatthis] Take Note of the Boss  
-> There are four Atraks clones on either floor. Usually on the left, middle, and right with two clones in one section. Their locations are *super* important for [[3-Atraks-1#Part 2 DPS|DPS]].  
+> There are four Atraks clones on either floor. Usually on the left, middle, and right with two clones in one section. Their locations are *super* important for [part 2.](#part-2-dps)  
 
 On the ground floor, a vandal with the operator buff above its head will spawn. The remaining guardian of the space team will kill it, take the buff, and take the elevator up.  
   
@@ -121,7 +121,7 @@ This is why everyone met up in a central location. It's best practice to have a 
 —  
   
 From here, two things will happen at once.  
-- The scanner buff needs to be [[3-Atraks-1#Ground Floor|sent downstairs]] via the terminal.  
+- The scanner buff needs to be [sent downstairs](#part-1-the-setup) via the terminal.  
 - Atraks will drop a nice orb to be picked up.  
 
 > [!deadly] This Isn't the Orb of Power I Wanted!  

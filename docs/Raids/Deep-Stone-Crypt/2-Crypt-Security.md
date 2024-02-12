@@ -29,7 +29,7 @@ ___
 ### Team Setup  
 
   
-- Guardians will be split up into two teams of thre. One on light side, one on dark.  
+- Guardians will be split up into two teams of three. One on light side, one on dark.  
 - One guardian designated as <font color="#dddea1">scanner</font>.  
 - One guardian designated as first <font color="#d99694">operator</font>.  
 

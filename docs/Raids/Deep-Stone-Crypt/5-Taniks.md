@@ -44,7 +44,7 @@ The arena is divided into three zones: orange, blue, and spawn.
   
 Take note of the suppression drones around each area for when the time comes.  
   
-Establish callouts for each of the nuke containers. Typically I've done it as \[Zone] left / right i.e "spawn left" or "orange right". This is from the perspective of facing the containers.  
+Establish callouts for each of the nuke containers. Typically I've done it as [Zone] left / right i.e "spawn left" or "orange right". This is from the perspective of facing the containers.  
   
 Also make sure to locate all of the augment terminals as all three roles are coming back around. They can also become disabled again so bear that in mind.  
   

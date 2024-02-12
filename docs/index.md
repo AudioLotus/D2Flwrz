@@ -60,14 +60,14 @@ Often times you'll see me use fun boxes for things like warnings and notes. Here
 Things are *heavily* under construction here as I am fairly new at this. Please be patient!
 
 <div class="grid cards" markdown>
-- :D2-class-titan: [[Raids/index|Raids]]
+- :D2-class-titan: [Raids](/Raids/)
 
 - :D2-class-titan: Dungeons
 
 - :D2-class-titan: Exotic Missions
 </div>
 
-Also check out the [[Tools|tools I use regularly!]]
+Also check out the [tools I use regularly!](/Tools.md)
 
 ---
 
