@@ -7,8 +7,7 @@ aliases:
   - Morgeth
 ---
 
-> [!tldr] tl;dr  
->
+> [!tl-dr] tl;dr
 > - The team needs to gather ten **Taken Strength** between all six members over two waves.  
 > - One person each wave will get detained. Free them.  
 > - Do unholy amounts of dps to one phase Morgeth.  

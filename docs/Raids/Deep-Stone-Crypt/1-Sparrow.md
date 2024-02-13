@@ -7,7 +7,7 @@ aliases:
   - Sparrow Encounter
 ---
 
-> [!tldr]  
+> [!tl-dr]  tl;dr  
 > Hop on your sparrow and avoid the cold by finding various domes  
 
 ___  

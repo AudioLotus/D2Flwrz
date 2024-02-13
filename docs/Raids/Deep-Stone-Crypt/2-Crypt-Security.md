@@ -7,7 +7,7 @@ aliases:
   - Crypt Security
 ---
 
-> [!tldr]  
+> [!tl-dr]  tl;dr
 > - Pick up operator to start  
 > - Kill scanner on dark side and find glowing panels  
 > - Operator open hallway  

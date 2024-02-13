@@ -7,7 +7,7 @@ aliases:
   - Riven's Heart
 ---
 
-> [!tldr]  
+> [!tl-dr]  tl;dr
 > - Carry Riven's Heart to the end via relay race
 > - People will randomly get teleported and must get Taken Strength via blights to extend the timer  
 

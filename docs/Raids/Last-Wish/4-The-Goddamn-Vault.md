@@ -10,7 +10,7 @@ aliases:
   
 **Oh God. The fucking vault**  
 
-> [!tldr]  
+> [!tl-dr]  tl;dr
 > - Determine which plates are Ant and Pen  
 > - Two doors close, one opens  
 > - Kill **Eye of Riven** and pick up orb to get Ant or Pen buff  
@@ -71,34 +71,44 @@ Whoever is on Trees or Rocks will have this symbol on their left or right. They 
    
 That person will then read *their* center symbol, and another will respond with their location and direction of the symbol, again, something like "Stairs right!".  
    
-To be safe, all sides should be called out. You can typically get away with only calling out two though.  
-   
-There is no specific order for who gets Penumbra or Antumbra.  
+To be safe, all sides should be called out. You can typically get away with only calling out two though. There is no specific order for who gets Penumbra or Antumbra.  
   
-Also in case it needs repeating: **Penumbra is left, Antumbra is right**  
+Also in case it needs repeating: **Penumbra is left, Antumbra is right**.
 
-> [!lookatthis] An Example!  
-> 1. Stairs calls out their center symbol as 8 snake.  
-> 2. Trees sees this on their left and notes they are Penumbra by saying "Trees left".  
-> 3. Trees calls out that their center symbol is cloud snake.  
-> 4. Rocks sees this on their right and notes they are Antumbra by saying "Rocks right"  
-> 5. Rock sees their middle symbol is infinity snake  
-> 6. Since Stairs is the only one left, they see this on their right and notes they are also Antumbra by saying "Stairs right"  
+Here's an example:
 
-Note: It is best to have someone record all of this down by either writing it chat like:  
+=== "Step One"
 
-> `Trees Ant` or `TA`  
-> `Stairs Pen` or `SP`  
-or just use the website I mentioned in the intro. Up to you.  
+    Stairs calls out their center symbol as 8 snake. (1) 
+    Trees sees this on their left and notes they are Penumbra by saying "Trees left".
+    { .annotate }
+    1.  ![8 snake](../../assets/img/LW-8snake.svg){ width="50" color="white" }
+    
+
+=== "Step Two"
+
+    Trees calls out that their center symbol is cloud snake. (1) 
+    Rocks sees this on their right and notes they are Antumbra by saying "Rocks right"
+    { .annotate }
+    1.  ![8 snake](../../assets/img/LW-Cloud-Snake.svg){ width="50" color="white" }
+    
+
+=== "Step Three"
+
+    Rock sees their middle symbol is infinity snake (1) 
+    Since Stairs is the only one left, they see this on their right and notes they are also Antumbra by saying "Stairs right"
+    { .annotate }
+    1.  ![8 snake](../../assets/img/LW-Infin-Snake.svg){ width="50" color="white" }
+    
+
+Note: It is best to have someone record all of this down by either writing it chat either like `Trees Ant` / `TA` or `Stairs Pen` / `SP`. Or just use the website I mentioned in the intro. Up to you.  
 
 Now that the *basic intro* is done with, let's actually get shit started.  
   
 ----  
-  
 
 ## Part 2: Reading and Running  
 
-  
 Now, to start the actual encounter, we begin by all three readers stepping on their plates.  
   
 Make sure to be timely as the entrances to two of the zones will close off with one remaining open. *Call out which one is open*. These will close and open on their own and care not for the folly of guardians. Taking too long can make communication chaotic and stressful because of this.  
@@ -131,7 +141,6 @@ To reiterate, **The buff needs to match the plate callout.**
 This will repeat two more times to cover the remaining plates and unlock one part of the security system.  
 
 > [!careful] Why are there more?!  
->
 > So remember the sword plunging knight from earlier? Yeah... for each subsequent plate that needs the buff, an additional knight will spawn. Think of it as matching numbers.  
 > - First plate spawns one knight  
 > - Second plate spawns two knights  

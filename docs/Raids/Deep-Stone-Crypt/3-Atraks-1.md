@@ -7,7 +7,7 @@ aliases:
   - Atraks
 ---
 
-> [!tldr]  
+> [!tl-dr]  tl;dr
 > - Four people stay on the ground floor while two go to space.  
 > - Once operator vandal spawns, one guardian takes it and goes up.  
 > - Scanner vandal appears in space, kill it and take buff.  

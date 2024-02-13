@@ -37,8 +37,9 @@ theme:
     - navigation.tabs.sticky
     - navigation.footer
     - navigation.path
-    - navigation.prune
+    # - navigation.prune
     - navigation.sections
+    - content.tooltips
 
 # Extensions
 markdown_extensions:
@@ -87,6 +88,9 @@ markdown_extensions:
           format: !!python/name:pymdownx.superfences.fence_code_format
   - pymdownx.tabbed:
       alternate_style: true
+      slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower
   - pymdownx.tilde
   - pymdownx.tasklist:
       custom_checkbox: true

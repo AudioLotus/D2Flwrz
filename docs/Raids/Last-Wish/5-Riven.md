@@ -7,7 +7,7 @@ aliases:
   - Riven
 ---
 
-> [!tldr]  
+> [!tl-dr]  tl;dr
 > - Fall down to Riven  
 > - Go to crystal room and see if her shadow appears  
 > - If yes, murder  

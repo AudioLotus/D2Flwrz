@@ -7,7 +7,7 @@ aliases:
   - Taniks Rapture
 ---
 
-> [!tldr]  
+> [!tl-dr]  tl;dr
 > - Kill adds  
 > - Take all three augments  
 > - Operator shoots panel  

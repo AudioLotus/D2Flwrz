@@ -7,7 +7,7 @@ aliases:
   - Taniks
 ---
 
-> [!tldr]  
+> [!tl-dr]  tl;dr
 > - Collect augments  
 > - Wait til Taniks floats to a zone  
 > - Shoot nukes off  

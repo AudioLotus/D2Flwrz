@@ -7,7 +7,7 @@ aliases:
   - Kalli
 ---
 
-> [!tldr]  
+> [!tl-dr]  tl;dr
 > - Find symbols above doors  
 > - Stand on matching plates (don't step in the goo)  
 > - Kill Knights  
