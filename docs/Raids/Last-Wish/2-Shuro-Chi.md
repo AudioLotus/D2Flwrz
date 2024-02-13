@@ -79,8 +79,8 @@ Do as much damage to her as you can, but damage is gated to 1/6 of her health pe
 After, she will move to the next plate where the adds + almond process will repeat once more.(1)  
 { .annotate }
 
-1. Fun Fact!  
-When the raid first started, it was sometimes necessary to use a taken orb dropped by a knight to interrupt Shuro Chi to get some more damage in. This is no longer the case.
+1.   === Fun Fact!  
+	When the raid first started, it was sometimes necessary to use a taken orb dropped by a knight to interrupt Shuro Chi to get some more damage in. This is no longer the case.
 
 Now it's puzzle time.  
   
