@@ -50,14 +50,6 @@ Often times you'll see me use fun boxes for things like warnings and notes. Here
 
 </div>
 
-<div class="annotate" markdown>
-
-> Lorem ipsum dolor sit amet, (1) consectetur adipiscing elit.
-
-</div>
-
-1.  :man_raising_hand: I'm an annotation!
-
 ----
 
 ## Sections
@@ -101,4 +93,3 @@ MrFlwrz#5967
 [Destiny Tracker](https://destinytracker.com/destiny-2/profile/bungie/4611686018491494988/overview)
 </div>
 </div>
-
