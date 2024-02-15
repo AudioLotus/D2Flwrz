@@ -53,7 +53,7 @@ Once they're dead, an area will open up where you get on your sparrow and go thr
   
 —  
   
-Guardians will need to navigate their way from dome to dome until they reach the end.  
+You need to navigate their way from dome to dome until they reach the end.  
   
   
 Really the biggest thing here is making sure you follow the glowing posts along the way that guide you to the next area.  

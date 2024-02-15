@@ -109,7 +109,7 @@ Fuses are separated by light and dark sides, so three fuses each.
   
 Immediately after, the operator should run to the terminal by the fuses and deposit the buff.  
   
-Players upstairs need to *immediately* grab this and send the scanner buff down to be picked up. Basically we're swapping operator for scanner.  
+Guardians upstairs need to *immediately* grab this and send the scanner buff down to be picked up. Basically we're swapping operator for scanner.  
   
 Dps is approaching! For the sake of practicality though, the teams upstairs will stay on their respective light and dark sides. There's no real need to try to have everyone rotate between the rooms and lose dps time.  
 

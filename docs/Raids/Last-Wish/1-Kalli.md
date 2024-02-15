@@ -56,7 +56,7 @@ Best weapons would be some form of add clear (autorifles and fusions for example
 ## Part 1: Plate Cleansing  
 
   
-All Guardians must choose a plate that matches one of the six symbols in the center. Stepping on a plate starts the encounter.  
+Everyone must choose a plate that matches one of the six symbols in the center. Stepping on a plate starts the encounter.  
   
 Taken orbs will spawn on 2/3 of the plate. ***Stand on the empty part*** lest you really want to die.  
   
@@ -96,7 +96,7 @@ At this point, a fun game of musical chairs begins as underneath her, six doors 
   
   
   
-Each guardian has about 10 seconds to enter one of the open doors and hide in the little room. One guardian per door. No sharing.  
+Everyone has about 10 seconds to enter one of the open doors and hide in the little room. One guardian per door. No sharing.  
   
 After the doors close, a huge wave of energy will wash over the field and the doors will reopen. If you do not enter a room **you will die**.  
   

@@ -28,7 +28,7 @@ ___
   
 Initially there should be three teams of two divided between the different zones.  
   
-During [[5-Taniks#Part 2 Everything All at Once|Part 2]], things can be divided into a few different roles:  
+During [part 2](#Part-2-Everything-All-at-Once), things can be divided into a few different roles:  
 - One operator  
 - One scanner  
 - One suppressor  
@@ -87,14 +87,14 @@ I'll clarify what the roles do later, but make sure to grab them immediately as 
   
 Soon enough, Taniks will begin to float to a random zone. Call out which zone he's going to and make sure *everyone* promptly follows.  
   
-He will then begin to summon some purple beams of light which leaves him vulnerable so that guardians can shoot nukes off of him.  
+He will then begin to summon some purple beams of light which leaves him vulnerable so that everyone can shoot nukes off of him.  
   
 Nukes? Again?  
   
 Yup, they're located on the four corners of his floating chassis and will be glowing.  
 
 > [!deadly] Destruction Rains From the Heavens!  
-> These purple beams of light can, and will, absolutely murder a guardian. Do not stand in them!  
+> These purple beams of light can, and will, absolutely murder you. Do not stand in them!  
 
 This is where things can get a little tricky. You either want to shoot *two* or *four* of the nukes off of Robo Taniks. I'll touch on why here in a moment with an alternative method.  
   
@@ -112,7 +112,7 @@ As with virtually every encounter in this raid, multiple things are going to hap
   
 Everyone else but operator and suppressor should either be running or helping runners out. Scanner is included in this as well, but should only help out after they've determined which receptacles are open.  
   
-This means guardians should be paving the way for runners, preparing to take over running if need be, or resurrecting a guardian if necessary.  
+This means everyone else should be paving the way for runners, preparing to take over running if need be, or resurrecting a guardian if necessary.  
   
 Use your best judgement on when to rez vs when to take a nuke and come back later.  
   
@@ -226,7 +226,7 @@ After some time, Taniks will bounce everyone out of the dome and the team will h
 - Jump to inner ring and do damage  
 - Dps ends  
   
-If Taniks wasn't sent to final stand from here, the fireteam will have to repeat all of the above steps again from [[5-Taniks#Part 1 Travelling Taniks|the beginning]].  
+If Taniks wasn't sent to final stand from here, the fireteam will have to repeat all of the above steps again from [part one](#Part-1-Travelling-Taniks).  
   
 Either way once you get to the final stand...  
   

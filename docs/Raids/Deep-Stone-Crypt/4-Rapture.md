@@ -84,14 +84,14 @@ This encounter has a lot of moving parts to say the least, but isn't that comple
   
 —  
   
-To start the encounter, guardians just need to approach our buddy Taniks standing atop the platform in front of the rally point / the back of the room. This is gonna make a shit ton of adds venture forth and try to recruit you to join their cause. Obviously soliciting isn't allowed, so do what you do best.  
+To start the encounter, you just need to approach our buddy Taniks standing atop the platform in front of the rally point / the back of the room. This is gonna make a shit ton of adds venture forth and try to recruit you to join their cause. Obviously soliciting isn't allowed, so do what you do best.  
   
 Vandals will spawn in random locations with the different augments over their heads. There will be three total comprising of our traditional operator and scanner alongside our newest addition, suppressor.  
   
-If you have assigned specific guardians for these roles, it's best practice for folks to call them out as they appear so that those assigned can grab their augment in a timely manner, i.e "Operator is over here!"  
+If you have assigned specific guardians for these roles, it's best practice for y'all to call them out as they appear so that those assigned can grab their augment in a timely manner, i.e "Operator is over here!"  
 
 > [!alt] Alternative Method  
-> As mentioned in the [[4-Rapture#Team Setup|Team Setup]] section, some fireteams don't assign specific roles and go for more of a "dibs" approach. This is perfectly fine for most teams and is how I've normally done it unless someone wants to do something specific.  
+> As mentioned in the [team setup](#team-setup) section, some fireteams don't assign specific roles and go for more of a "dibs" approach. This is perfectly fine for most teams and is how I've normally done it unless someone wants to do something specific.  
 >
 > If this is the case for your group, just have people call out that they've got that specific augment instead.  
 
@@ -158,7 +158,7 @@ On the way there , the two should communicate which ones they're going to as tim
 
 —  
   
-Every guardian, with the exception of the suppressor and *maybe* the scanner, should be clearing adds to help pave the way. They should also be on standby to pick a nuke up in case something goes awry like one of the bomb disposal folks dying or one of them needing to drop their nuke due to **Radiation**.  
+Everyone, with the exception of the suppressor and *maybe* the scanner, should be clearing adds to help pave the way. Y'all should also be on standby to pick a nuke up in case something goes awry like one of the bomb disposal folks dying or one of them needing to drop their nuke due to **Radiation**.  
 
 > [!careful] There's no RadAway?!  
 > Stacks of **Radiaton** do not simply go away. They go away over time. If a guardian is at, say, seven stacks or so they absolutely need to communicate this so someone can take over for them.  
