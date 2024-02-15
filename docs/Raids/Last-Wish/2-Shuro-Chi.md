@@ -26,7 +26,7 @@ aliases:
 ### Team Setup  
 
   
-Guardians should divide into two different sets of roles  
+You should divide the team into two different sets of roles  
 - Three to shoot almond lasers  
 - Four for the puzzles  
   
@@ -72,7 +72,7 @@ At this point, almonds will spawn on the three plates surrounding Shuro Chi.
   
 The team of three guardians will grab their respective almonds, do a countdown, and jump on the plates *at the same time*. This isn't mechanically necessary but standing on the plates for too long will **kill** you.  
   
-Once on the plates, guardians will point their almond to the guardian on their right and fire, forming a laser triangle around Shuro Chi. This will break her shield and allow DPS.  
+Once on the plates, they'll point their almond to the guardian on their right and fire, forming a laser triangle around Shuro Chi. This will break her shield and allow DPS.  
   
 Do as much damage to her as you can, but damage is gated to 1/6 of her health per plate.  
   

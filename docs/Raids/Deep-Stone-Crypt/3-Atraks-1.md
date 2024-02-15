@@ -63,7 +63,7 @@ A loooooot of add clear and something that can do high damage in a short time li
 ## Part 1: The Setup  
 
   
-Guardians are going to split in to two teams of three as mentioned above.  
+You're going to split in to two teams of three as mentioned above.  
   
 Shooting the ball by the elevators starts the encounter where two guardians will immediately go to space.  
 
@@ -87,7 +87,7 @@ Soon after, six servitors will spawn, three in space, three on the ground floor.
 
 At the same time, a vandal with the scanner buff will appear in space. **This must be picked up for a successful dps phase.**  
   
-When guardians are ready to be ruthless murder machines, they should kill the last servitor and group up wherever they want. Usually some form of central area is best for the scanner.  
+When the team ready to be ruthless murder machines, kill the last servitor and group up wherever you'd like. Usually some form of central area is best for the scanner.  
   
 Dps starts upstairs, so get ready space force!  
   

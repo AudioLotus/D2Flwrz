@@ -21,7 +21,7 @@ aliases:
 ### Team Setup  
 
   
-Guardians should split up into two teams of three.  
+You should split up into two teams of three.  
  - Three guardians on the left side  
  - Three on the right.  
   
@@ -47,7 +47,7 @@ Loadouts should primarily add clearing, heavy slot should have Whisper or nice L
 ## Part 1: Strengths  
 
   
-The encounter begins with a guardian taking one the blights in front of Morgeth. This gives that player the **Taken Strength** debuff and begins wave one.  
+The encounter begins with a guardian taking one the blights in front of Morgeth. This gives them the **Taken Strength** debuff and begins wave one.  
 
 > [!deadly] Power Creep  
 > You will start to see a message on the left that says "Morgeth is at x% strength". If it reaches 100%, it's a wipe. Leaving blights on the ground makes this speed up.  
@@ -73,7 +73,7 @@ Captains named **The Eye of Riven** will spawn during this.
   
 Kill them to spawn an orb that gives the **Taken Essence** debuff. The orbs can despawn, so be careful.  
    
-Typically they spawn one on each side, but they can sometimes appear on a single side. Guardians should call them out as they see them.  
+Typically they spawn one on each side, but they can sometimes appear on a single side. You should call them out as you see them.  
    
 Whichever cleanser is closest will need to grab an orb, go up to the detained guardian, and *press their grenade button*.  
 
@@ -120,11 +120,11 @@ This is easy enough. We're gonna one phase him.
   
 There are two ways to go about it:  
   
-Have everyone pile at the end opposite of Morgeth with snipers like Whisper or a nice LFR. Pop a well and shoot the glowing hunch on his back til he's dead.  
+=== "From a distance"  
+	Have everyone pile at the end opposite of Morgeth with snipers like Whisper or a nice LFR. Pop a well and shoot the glowing hunch on his back til he's dead.
   
-**OR**  
-  
-Everyone pile to Morgeth's back, pop a well, and use shotguns, fusions, swords, etc til he's dead.  
+=== "Up close"  
+	Everyone pile to Morgeth's back, pop a well, and use shotguns, fusions, swords, etc til he's dead.  
   
 EZPZ yeah?  
   
