@@ -23,7 +23,7 @@ So thankfully this dungeon is pretty consistent with its mechanics and they're f
 
 You'll find with most Hive related encounters over the different seasons and DLC that there are various runes. As is tradition, each team has different callouts for them. Here are the ones I use:
 
-[Insert pic here ]
+![Pit of Heresy Callouts](assets/img/PoH-Callouts.png)
 
 In my experience with Pit, you won't be verbally calling these out a lot. However, they're still nice to know in case they need communicated.
 

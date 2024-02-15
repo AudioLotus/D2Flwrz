@@ -100,7 +100,7 @@ Everyone has about 10 seconds to enter one of the open doors and hide in the lit
   
 After the doors close, a huge wave of energy will wash over the field and the doors will reopen. If you do not enter a room **you will die**.  
   
-Guardians should exit and find Kalli below another set of symbols. Continue dps.  
+When it's safe. exit and find Kalli below another set of symbols. Continue dps.  
 
 > [!alt] Alternative Method  
 > Some people like to number the open rooms 1-6 from top to bottom. To me, musical chairs is more fun. This mattered more when the raid first came out.  
