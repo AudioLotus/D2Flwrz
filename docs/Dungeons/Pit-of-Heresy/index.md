@@ -11,7 +11,6 @@ aliases:
 
 [Mechanics](#Mechanics)  
 [Encounters](#Encounters)  
-[Bonus Chests](#bonus-chests)
 
 ---
 
@@ -54,10 +53,12 @@ Listen, I get y'all are probably going to yell at me for the order I put those i
 
 A big city with symbols everywhere. Match the buildings to the seals you see inside one of them and play some Rock-Paper-Scissors!
 
-##### [Hidden Tunnels](2-Tunnels-of-Despair.md)
+##### [Tunnels of Despair](2-Tunnels-of-Despair.md)
 
 Dunk **Void Charges** to extinguish flames and break more seals while you try not to get lost or run into some invincible ogres!
 
----
+##### [Chamber of Suffering](3-Chamber-of-Suffering.md)
 
-## Bonus Chests
+Just survive. Really, that's it. Just make it out of there alive. Oh also make sure to dunk those **Void Charges** while you're at it. One more thing, don't leave the totem.
+
+---

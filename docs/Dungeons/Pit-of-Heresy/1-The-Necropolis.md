@@ -30,7 +30,7 @@ Take a moment to scan the area to see what's around. You don't have to memorize 
 
 ### Loadouts
 
-Decent add clear and a good special weapon for the **Accursed Swordbearers** and **Blistered Ogres**.
+Decent add clear and a good special weapon for the **Accursed Swordbearers**  and **Blistered Ogres** .
 
 ----
 
@@ -46,7 +46,7 @@ Above where is now corpse is, you'll notice three seals bound in chains. Breakin
 
 How do we do that? Well you just have to match the symbols found here to the buildings throughout the cavern.
 
-For example, if you have **Burger**, **Ice Cream**, and **A**, you'll locate the buildings with those symbols above them.
+For example, if you have **Burger** :D2-burger:{.d2callout}, **Ice Cream** :D2-icecream:{.d2callout}, and **A** :D2-a:{.d2callout}, you'll locate the buildings with those symbols above them.
 
 
 <figure markdown="span">
@@ -54,14 +54,11 @@ For example, if you have **Burger**, **Ice Cream**, and **A**, you'll locate the
   <figcaption>Matching Ice Cream Seals</figcaption>
 </figure>
 
-
-—
-
 It doesn't really matter which order you do these in, but let's just start from the first building in our example, **Burger**.
 
 When you get to **Burger**, you'll notice that the entrance is walled off by a Hive barrier. Damn. Opening the door is easy though, just kill the **Pit Keeper** nearby and bam, it's open.
 
-Inside you'll find either a **Knight**, **Wizard**, or **Shrieker**. Each one of them can only be killed by the relic sword in a specific manner. I mentioned what to do in the [intro](./index.md), but I'll repeat it here for ease of access:
+Inside you'll find either a **Knight** , **Wizard** , or **Shrieker**. Each one of them can only be killed by the relic sword in a specific manner. I mentioned what to do in the [intro](./index.md), but I'll repeat it here for ease of access:
 
 === "Knight (Might of the Broken Blade)"  
 	Use the light attack of the sword to murderize it.
