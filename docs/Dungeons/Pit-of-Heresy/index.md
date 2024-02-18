@@ -23,7 +23,7 @@ So thankfully this dungeon is pretty consistent with its mechanics and they're f
 
 You'll find with most Hive related encounters over the different seasons and DLC that there are various runes. As is tradition, each team has different callouts for them. Here are the ones I use:
 
-![Pit of Heresy Callouts](assets/img/PoH-Callouts.png)
+![Pit of Heresy Callouts](../../assets/img/PoH-Callouts.png)
 
 In my experience with Pit, you won't be verbally calling these out a lot. However, they're still nice to know in case they need communicated.
 
@@ -31,24 +31,32 @@ Most times you'll see these emblems as seals in chains that need to be broken to
 
 ###### Dunking
 
-There will be a number of times where you have to dunk a **Void Charge** into small Hive containers. Dunking these will break the seals mentioned above so the fireteam can progress through the dungeon.
+There will be a number of times where you have to dunk a **Void Charge** into Hive containers to extinguish flames. Dunking these will break the seals mentioned above so the fireteam can progress through the dungeon.
 
 ###### Rock-Paper-Scissors
 
-Listen, I get y'all are probably going to yell at me for the order I put those in, but I'm not going to change my ways. This is an important aspect in the first and final encounters where you need to defeat specific enemies using a relic sword dropped by **Accursed Knights**  in different ways:
+Listen, I get y'all are probably going to yell at me for the order I put those in, but I'm not going to change my ways. This is an important aspect in the first and final encounters where you need to defeat specific enemies using a relic sword dropped by **Accursed Swordbearers**  in different ways:
 
-=== "Knight"  
+=== "Knight (Might of the Broken Blade) "  
 	Use the light attack of the sword to murderize it.
 
-=== "Wizard"  
+=== "Wizard (Omen of the Broken Blade)"  
 	Use the heavy attack to shoot waves of energy at it.
 
-=== "Shrieker"  
+=== "Shrieker (Oracle of the Broken Blade)"  
 	Use the guard to reflect its blasts back at it. Fun fact, you can also reflect the blasts from ogres with this.
 
 ---
 
 ## Encounters
+
+##### [The Necropolis](1-The-Necropolis.md)
+
+A big city with symbols everywhere. Match the buildings to the seals you see inside one of them and play some Rock-Paper-Scissors!
+
+##### [Hidden Tunnels](2-Tunnels-of-Despair.md)
+
+Dunk **Void Charges** to extinguish flames and break more seals while you try not to get lost or run into some invincible ogres!
 
 ---
 
