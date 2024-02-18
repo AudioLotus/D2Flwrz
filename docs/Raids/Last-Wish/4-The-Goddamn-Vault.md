@@ -79,20 +79,22 @@ Here's an example:
 
 === "Step One"
 
-    Stairs calls out their center symbol as 8 snake ![8 snake](../../assets/img/LW-8snake.svg){ width="50" color="white" } 
-    Trees sees this on their left and notes they are Penumbra by saying "Trees left".
+     - Stairs calls out their center symbol as 8 snake :D2-8snake:{.d2callout}
+     - Trees sees this on their left and notes they are Penumbra by saying "Trees left".
    
 
 === "Step Two"
 
-    Trees calls out that their center symbol is cloud snake. ![Cloud snake](../../assets/img/LW-Cloud-Snake.svg){ width="50" color="white" }
-    Rocks sees this on their right and notes they are Antumbra by saying "Rocks right"
+     - Trees calls out that their center symbol is cloud snake. :D2-cloud-snake:{.d2callout}
+     - Rocks sees this on their right and notes they are Antumbra by saying "Rocks right"
     
 
 === "Step Three"
 
-    Rock sees their middle symbol is infinity snake ![Infinity snake](../../assets/img/LW-Infin-Snake.svg){ width="50" color="white" }
-    Since Stairs is the only one left, they see this on their right and notes they are also Antumbra by saying "Stairs right"
+     - Rock sees their middle symbol is infinity snake :D2-infinsnake:{.d2callout}
+     - Since Stairs is the only one left, they see this on their right and notes they are also Antumbra by saying "Stairs right"
+
+---
 
 Note: It is best to have someone record all of this down by either writing it chat either like `Trees Ant` / `TA` or `Stairs Pen` / `SP`. Or just use the website I mentioned in the intro. Up to you.  
 
