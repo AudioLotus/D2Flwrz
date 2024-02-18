@@ -36,8 +36,6 @@ theme:
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.footer
-    - navigation.path
-    # - navigation.prune
     - navigation.sections
     - content.tooltips
 
@@ -98,9 +96,9 @@ markdown_extensions:
 plugins:
   - awesome-pages
   - callouts
-  - embed_file:
-      callouts: true
-      custom-attributes: 'assets/css/custom_attributes.css'
+  # - embed_file:
+  #     callouts: true
+  #     custom-attributes: 'assets/css/custom_attributes.css'
   - glightbox
   - meta-descriptions
   - search
@@ -125,23 +123,14 @@ extra:
     - icon: fontawesome/brands/discord
       link: https://discord.com/invite/SJujZm2WDw
 
-# nav:
-#   - index.md
-#   - Tools.md
-#   - Raids:
-#     - Raids/index.md
-#     - Last Wish:
-#       - Raids/Last-Wish/index.md
-#       - Raids/Last-Wish/1-Kalli.md
-#       - Raids/Last-Wish/2-Shuro-Chi.md
-#       - Raids/Last-Wish/3-Morgeth.md
-#       - Raids/Last-Wish/4-The-Goddamn-Vault.md
-#       - Raids/Last-Wish/5-Riven.md
-#       - Raids/Last-Wish/6-Queenswalk.md
-#     - Deep Stone Crypt:
-#       - Raids/Deep-Stone-Crypt/index.md
-#       - Raids/Deep-Stone-Crypt/1-Sparrow.md
-#       - Raids/Deep-Stone-Crypt/2-Crypt-Security.md
-#       - Raids/Deep-Stone-Crypt/3-Atraks-1.md
-#       - Raids/Deep-Stone-Crypt/4-Rapture.md
-#       - Raids/Deep-Stone-Crypt/5-Taniks.md
+    - icon: fontawesome/brands/github
+      link: https://github.com/AudioLotus/d2flwrz
+
+    - icon: D2/dungeon
+      link: https://dungeon.report/pc/4611686018491494988
+
+    - icon: D2/raidplain
+      link: https://raid.report/pc/4611686018491494988
+
+    - icon: D2/destiny
+      link: https://www.bungie.net/7/en/User/Profile/3/4611686018491494988?bgn=MrFlwrz
