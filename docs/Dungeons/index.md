@@ -4,6 +4,6 @@ Here's what I have so far:
 
 <div class="grid cards" markdown>
 
-- [Pit of Heresy](./Pit-of-Heresy/)
+- [:D2-hive: Pit of Heresy](./Pit-of-Heresy/)
 
 </div>
