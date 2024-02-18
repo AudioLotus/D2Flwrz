@@ -13,9 +13,9 @@ Here are the guides I have thus far:
   
 <div class="grid cards" markdown>
 
-- [Last Wish](./Last-Wish)
+- [:D2-forsaken: Last Wish](./Last-Wish)
 
-- [Deep Stone Crypt](./Deep-Stone-Crypt)
+- [:D2-clovis_bray: Deep Stone Crypt](./Deep-Stone-Crypt)
   
 </div>  
 

@@ -57,7 +57,7 @@ Often times you'll see me use fun boxes for things like warnings and notes. Here
 Things are *heavily* under construction here as I am fairly new at this. Please be patient!
 
 <div class="grid cards" markdown>
-- :D2-raid: [Raids](./Raids/)
+- :D2-raidskull: [Raids](./Raids/)
 
 - :D2-dungeon: [Dungeons](./Dungeons/)
 
