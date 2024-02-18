@@ -68,28 +68,4 @@ Also check out the [tools I use regularly!](/Tools.md)
 
 ---
 
-## Come hang sometime!
-
-<div class="grid" markdown>
-<div markdown>
-
-##### Bungie
-
-MrFlwrz#5967
-</div>
-<div markdown>
-
-##### Discord
-
-@MrFlwrz  
-[The Colonel's Guard](https://discord.com/invite/SJujZm2WDw)
-</div>
-<div markdown>
-
-##### Destiny Info
-
-[Raid Report](https://raid.report/pc/4611686018491494988)  
-[Dungeon Report](https://dungeon.report/pc/4611686018491494988)  
-[Destiny Tracker](https://destinytracker.com/destiny-2/profile/bungie/4611686018491494988/overview)
-</div>
-</div>
+If you have any questions, feel free to [file an issue on the Github repo](https://github.com/AudioLotus/d2flwrz) or send me a message on Discord!
