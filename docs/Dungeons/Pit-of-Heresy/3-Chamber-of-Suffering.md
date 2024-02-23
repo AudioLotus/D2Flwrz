@@ -1,10 +1,10 @@
 ---
-title: The Chamber of Suffering
+title: Chamber of Suffering
 activity_type:
   - Dungeon
 activity_name: Pit of Heresy
 aliases:
-  - The Chamber of Suffering
+  - Chamber of Suffering
 ---
 
 > [!tl-dr] tl;dr  

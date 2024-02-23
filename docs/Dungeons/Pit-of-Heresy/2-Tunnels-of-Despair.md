@@ -24,7 +24,7 @@ Like the last encounter, there's not really a specific team composition here. Ev
 
 This area can be really easy to get lost in until you're more familiar with it. Take your time getting used to going in and out of the internal passages and where they lead. Also look out for the entrances to these passages. They look like small holes with orange cloth over them that you have to destroy to open up.
 
-This is also a good lesson in being patient and sneaky to go where you need to deposit the **Void Charges**, as you don't want to needlessly deal with the **Invincible Ogres** and end up dead. These small passages are absolutely fantastic for sliding in and hiding.
+This is also a good time to learn where you need to deposit the **Void Charges**.
 
 ### Loadouts
 
@@ -42,7 +42,12 @@ So how do we do this?
 
 Dunking, our favorite past time.
 
-You'll also notice that we have two big friendly ogres wandering the area, looking for intruders. Normally I'd say to murderize them, but these giant cuddly bastards are invincible and cannot be harmed.
+You'll also notice that we have two big friendly ogres called **Harrowing Pariahs**  wandering the area looking for intruders. Normally I'd say to murderize them, but these giant cuddly bastards are invincible and cannot be harmed.
+
+<figure markdown="span">
+  ![Harrowing Pariah](../../assets/img/PoH-Pariah.png){ width="700" }
+  <figcaption>Our newest friend!</figcaption>
+</figure>
 
 —
 
