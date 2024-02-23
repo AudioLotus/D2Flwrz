@@ -1,0 +1,15 @@
+grid {
+    grid-gap: .4rem;
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(12rem,1fr));
+    margin: 2em 0;
+    }
+
+.d2callout {
+    --md-icon-size: 3em !important;
+    vertical-align: text-bottom !important;
+}
+
+.md-typeset figcaption{
+    margin: auto;
+}
