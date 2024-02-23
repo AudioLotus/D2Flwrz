@@ -22,7 +22,7 @@ So thankfully this dungeon is pretty consistent with its mechanics and they're f
 
 You'll find with most Hive related encounters over the different seasons and DLC that there are various runes. As is tradition, each team has different callouts for them. Here are the ones I use:
 
-![Pit of Heresy Callouts](../../assets/img/PoH-Callouts.png)
+![Pit of Heresy Callouts](../../assets/img/PoH/PoH-Callouts.png)
 
 In my experience with Pit, you won't be verbally calling these out a lot. However, they're still nice to know in case they need communicated.
 
@@ -34,7 +34,7 @@ There will be a number of times where you have to dunk a **Void Charge** into Hi
 
 ###### Rock-Paper-Scissors
 
-Listen, I get y'all are probably going to yell at me for the order I put those in, but I'm not going to change my ways. This is an important aspect in the first and final encounters where you need to defeat specific enemies using a relic sword dropped by **Accursed Swordbearers**  in different ways:
+Listen, I get y'all are probably going to yell at me for the order I put those in, but I'm not going to change my ways. This is an important aspect in the first and final encounters where you need to defeat specific enemies called **The Disciples of the Broken Blade** by using a relic sword dropped by **Accursed Swordbearers**  in different ways:
 
 === "Knight (Might of the Broken Blade) "  
 	Use the light attack of the sword to murderize it.
@@ -61,4 +61,10 @@ Dunk **Void Charges** to extinguish flames and break more seals while you try no
 
 Just survive. Really, that's it. Just make it out of there alive. Oh also make sure to dunk those **Void Charges** while you're at it. One more thing, don't leave the totem.
 
----
+##### [The Harrow](4-The-Harrow.md)
+
+Get lost in a maze full of traps and kill some Wizards. Have fun!
+
+##### [Zulmak, Instrument of Torment](5-Zulmak.md)
+
+A fun combo of everything we've done thus far! Murder Disciples, dunk charges, torment the tormentor!

@@ -1,10 +1,10 @@
 ---
-title: The Chamber of Suffering
+title: Chamber of Suffering
 activity_type:
   - Dungeon
 activity_name: Pit of Heresy
 aliases:
-  - The Chamber of Suffering
+  - Chamber of Suffering
 ---
 
 > [!tl-dr] tl;dr  
@@ -40,7 +40,9 @@ Pure add clear and survivability. Maybe something longer range to deal with the 
 So we're gonna start things off with a nice little callout:
 
 > [!careful] Don't Go Too Far In!  
-> When entering from the tunnels, don't immediately start the encounter. Stick close to the wall and make your way to the centermost stand where you'll see a rally flag. If you immediately start the encounter, the ogres from the previous area *will not despawn* and will make your life miserable.
+> When entering from the tunnels, don't immediately start the encounter. Either enter the new area from the center section and rally immediately, or stick close to the wall and make your way to the centermost point and rally.
+>
+> If you immediately start the encounter, the ogres from the previous area *will not despawn* and will make your life miserable.
 
 Now that that's out of the way, let's start.
 
@@ -52,6 +54,11 @@ Honestly, things are pretty straightforward here. By the totem are six seals and
 
 You're going to end up killing a ton of adds and waiting for those fun **Heretical Knights** to spawn in. When they do, kill them, take the charge, dunk it, and repeat.
 
+<figure markdown="span">
+  ![Seals and Flame](../../assets/img/PoH/PoH-Chamber.png){ width="700" }
+  <figcaption>View of the six seals and flame</figcaption>
+</figure>
+
 *However...*
 
 > [!deadly] Why is it Glowing?!  
@@ -59,8 +66,7 @@ You're going to end up killing a ton of adds and waiting for those fun **Heretic
 >
 > In the same vein, watch out for the stacks of that debuff as when it reaches x10, that will also be a wipe. Depositing the charge is what resets that debuff.
 
-All in all, things are pretty straightforward here. Deposit a total of six **Void Charges** and move forward to one of the most frustrating maxes.
-
+See? Easy enough yeah?
 
 
 

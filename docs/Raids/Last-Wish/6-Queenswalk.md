@@ -53,7 +53,7 @@ Prior to the encounter starting, one lucky guardian will receive a buff called *
   
 Immediately upon starting, all guardians must begin to take the heart through previous areas of the raid to a specific location.  
   
-![Map of the Queenswalk](../../assets/img/LW-QWMap.jpg)
+![Map of the Queenswalk](../../assets/img/LW/LW-QWMap.jpg)
 
 > [!deadly] Keep Close (But Not Too Close)!  
 >

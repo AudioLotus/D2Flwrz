@@ -50,7 +50,7 @@ For example, if you have **Burger** :D2-burger:{.d2callout}, **Ice Cream** :D2-i
 
 
 <figure markdown="span">
-  ![Matchings seals](../../assets/img/PoH-Nec.png){ width="700" }
+  ![Matchings seals](../../assets/img/PoH/PoH-Nec.png){ width="700" }
   <figcaption>Matching Ice Cream Seals</figcaption>
 </figure>
 
@@ -83,7 +83,7 @@ From here you'll go to **Ice Cream** and then **A** to do the same thing. Just b
 Once all three seals are broken, one of the buildings in the area will have a beacon of green light above it. Head to this building to get some sweet loot and move forward.
 
 <figure markdown="span">
-  ![Beam of Light](../../assets/img/PoH-Nec-Beam.png/){ width="700" }
+  ![Beam of Light](../../assets/img/PoH/PoH-Nec-Beam.png/){ width="700" }
   <figcaption>Beam of light showing the exit.</figcaption>
 </figure>
 

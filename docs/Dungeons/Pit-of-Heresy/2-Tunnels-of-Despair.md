@@ -24,7 +24,7 @@ Like the last encounter, there's not really a specific team composition here. Ev
 
 This area can be really easy to get lost in until you're more familiar with it. Take your time getting used to going in and out of the internal passages and where they lead. Also look out for the entrances to these passages. They look like small holes with orange cloth over them that you have to destroy to open up.
 
-This is also a good lesson in being patient and sneaky to go where you need to deposit the **Void Charges**, as you don't want to needlessly deal with the **Invincible Ogres** and end up dead. These small passages are absolutely fantastic for sliding in and hiding.
+This is also a good time to learn where you need to deposit the **Void Charges**.
 
 ### Loadouts
 
@@ -42,7 +42,12 @@ So how do we do this?
 
 Dunking, our favorite past time.
 
-You'll also notice that we have two big friendly ogres wandering the area, looking for intruders. Normally I'd say to murderize them, but these giant cuddly bastards are invincible and cannot be harmed.
+You'll also notice that we have two big friendly ogres called **Harrowing Pariahs**  wandering the area looking for intruders. Normally I'd say to murderize them, but these giant cuddly bastards are invincible and cannot be harmed.
+
+<figure markdown="span">
+  ![Harrowing Pariah](../../assets/img/PoH/PoH-Pariah.png){ width="700" }
+  <figcaption>Our newest friend!</figcaption>
+</figure>
 
 —
 
@@ -52,6 +57,13 @@ When it does, it will drop a **Void Charge**, which is what you need to deposit 
 
 Take this charge, *carefully* peek out of one of the holes to see if you're in the clear, and book it to the end of the lane. Dunk the charge and a seal is broken.
 
+<figure markdown="span">
+  ![Extinguished flame and a remaining seal](../../assets/img/PoH/PoH-Tunnel-Seal.png){ width="700" }
+  <figcaption>Extinguished flame and a remaining seal</figcaption>
+</figure>
+
 Now you just need to do this two more times to move forward. Easy enough, yeah? Honestly the hardest part is just navigating through everything without getting lost and making sure you don't get blasted by the ogres.
 
 Move in to the next room to find a fun little prayer group happening.
+
+
