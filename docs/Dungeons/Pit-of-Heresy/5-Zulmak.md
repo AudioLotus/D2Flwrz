@@ -22,7 +22,7 @@ Does it need much repeating here? Everyone can work together or separate really.
 
 ### Details
 
-Pay attention to each of the towers in the arena. Each one houses a specific Disciple (the main enemies from the [first encounter](1-The-Necropolis.md)). Looking at the arena, from left to right, they contain the**Knight**, **Shrieker**, and **Wizard** respectively.
+Pay attention to each of the towers in the arena. Each one houses a specific Disciple (the main enemies from the [first encounter](1-The-Necropolis.md)). Looking at the arena, from left to right, they contain the **Knight**, **Shrieker**, and **Wizard** respectively.
 
 Keep an eye out on the pedestals around. These spawn adds.
 
