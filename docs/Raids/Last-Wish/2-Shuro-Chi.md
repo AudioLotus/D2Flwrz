@@ -111,7 +111,7 @@ The guardian who said they were number one will stand by the first plate, number
   
 They will then call out when they're by their plate by saying "\[number] ready". Again, this is top to bottom, left to right.  
   
-![Puzzle Plates](../../assets/img/LW-SC-Plate.png)  
+![Puzzle Plates](../../assets/img/LW/LW-SC-Plate.png)  
   
 After a countdown, each guardian will jump on their respective plate. This will fill in the missing pieces on the screen.  
   

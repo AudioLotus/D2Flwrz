@@ -26,15 +26,15 @@ DSC builds upon a few mechanics throughout the raid. These are primarily through
   
 They are:  
 <div class="grid cards" markdown>
-- ![Operator Augment](../../assets/img/DSC-Operator.png){ width="90" text-align="center" }
+- ![Operator Augment](../../assets/img/DSC/DSC-Operator.png){ width="90" text-align="center" }
 **Operator**  
 Shoots things like panels  
   
-- ![Scanner Augment](../../assets/img/DSC-Scanner.png){ width="90" text-align="center" }  
+- ![Scanner Augment](../../assets/img/DSC/DSC-Scanner.png){ width="90" text-align="center" }  
 **Scanner**  
 Looks for glowing points of interest  
   
-- ![Suppressor Augment](../../assets/img/DSC-Suppressor.png){ width="90" text-align="center" }  
+- ![Suppressor Augment](../../assets/img/DSC/DSC-Suppressor.png){ width="90" text-align="center" }  
 **Suppressor**  
 Stands under drones and shoots a boss or two  
 </div>

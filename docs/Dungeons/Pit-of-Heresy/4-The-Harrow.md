@@ -47,7 +47,7 @@ There are a couple of ways to locate these wonderful beings:
 Pretty straightforward yeah? Here's the map in case you want to use it.
 
 <figure markdown="span">
-  ![The Harrow](../../assets/img/PoH-Harrow.png){ width="700" }
+  ![The Harrow](../../assets/img/PoH/PoH-Harrow.png){ width="700" }
   <figcaption>Map of The Harrow</figcaption>
 </figure>
 

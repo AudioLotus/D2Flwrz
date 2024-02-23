@@ -25,7 +25,7 @@ So, in my opinion, Last Wish doesn't really have a consistent set of building me
   
 **Symbols:** One thing that appears often are sets of symbols with either a bird, snake, fish, or dragon in black on a pale green background. Some parties may call each one different things, but here are the callouts I personally use:  
   
-![Callouts for Last Wish](../../assets/img/LW-symbols.png)
+![Callouts for Last Wish](../../assets/img/LW/LW-symbols.png)
   
 **Taken Blights**: in a few encounter you'll see some taken orbs in pillars of light. When these are picked up they give a **Taken Strength** debuff which will kill you if you get more than two stacks.  
   
@@ -33,7 +33,7 @@ So, in my opinion, Last Wish doesn't really have a consistent set of building me
   
 Also there's a **Wishing Wall** found past Kalli's arena after you jump up some rocks:  
   
-![LW-Wishing-Wall](../../assets/img/LW-Wishing-Wall.jpeg)
+![LW-Wishing-Wall](../../assets/img/LW/LW-Wishing-Wall.jpeg)
   
 ---  
   

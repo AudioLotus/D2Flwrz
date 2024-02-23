@@ -45,7 +45,7 @@ Dunking, our favorite past time.
 You'll also notice that we have two big friendly ogres called **Harrowing Pariahs**  wandering the area looking for intruders. Normally I'd say to murderize them, but these giant cuddly bastards are invincible and cannot be harmed.
 
 <figure markdown="span">
-  ![Harrowing Pariah](../../assets/img/PoH-Pariah.png){ width="700" }
+  ![Harrowing Pariah](../../assets/img/PoH/PoH-Pariah.png){ width="700" }
   <figcaption>Our newest friend!</figcaption>
 </figure>
 

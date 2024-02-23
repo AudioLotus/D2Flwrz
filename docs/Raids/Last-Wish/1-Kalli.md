@@ -37,12 +37,12 @@ Each symbol corresponds to a plate around the room with a matching symbol above 
   
 The symbols are above a series of doors. This will be important later.  
   
-![Symbols](../../assets/img/LW-Kalli-Symbols.jpg)
+![Symbols](../../assets/img/LW/LW-Kalli-Symbols.jpg)
   
   
 There are nine total plates, each one divided into three parts.  
   
-![Plates and Blights](../../assets/img/LW-Kalli-Plate.jpg)
+![Plates and Blights](../../assets/img/LW/LW-Kalli-Plate.jpg)
   
 
 ### Loadouts  
@@ -92,7 +92,7 @@ At this point, a fun game of musical chairs begins as underneath her, six doors 
 >
 > If a knight wasn't killed, one of the doors won't open. This is bad.  
 
-![Open Doors](../../assets/img/LW-Kalli-Doors.jpg)
+![Open Doors](../../assets/img/LW/LW-Kalli-Doors.jpg)
   
   
   

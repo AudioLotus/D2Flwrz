@@ -63,7 +63,7 @@ Before we actually start things, let's go over how the reading actually works.
   
 There is a large machine in the middle, with a plate in front of each zone. Each plate has three screens in front of it. When the actual encounter starts, each screen will show a symbol.  
   
-![Vault Screen](../../assets/img/LW-Vault-Screen.png)
+![Vault Screen](../../assets/img/LW/LW-Vault-Screen.png)
   
 The guardian on Stairs will start by describing the ***symbol in the middle***. For example they might say "I have a cloud snake".  
   

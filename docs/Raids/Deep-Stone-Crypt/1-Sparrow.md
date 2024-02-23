@@ -66,6 +66,6 @@ Really the biggest thing here is making sure you follow the glowing posts along 
 
 Other than that, there's not much else to it. Here's a map I found if it helps.  
   
-![Sparrow Map](../../assets/img/DSC-Sparrow.png)
+![Sparrow Map](../../assets/img/DSC/DSC-Sparrow.png)
   
 Sweet. Now that that's done, let's move to Crypt Security!
