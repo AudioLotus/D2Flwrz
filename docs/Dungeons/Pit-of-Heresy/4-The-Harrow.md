@@ -30,9 +30,15 @@ Add clear and a decent special / exotic primary to take out some Wizards.
 
 ## Hide and Seek
 
-Everything here is pretty straightforward honestly. When you first drop in, you'll see three Hive runes on a wall in front of you. These correspond to specific towers around the map where a Wizard resides. I think it goes without saying that you need to go pay them a visit and give them a nice hug.
+Everything here is pretty straightforward honestly. When you first drop in, you'll see three Hive runes on a wall in front of you. These correspond to specific towers around the map where Wizards titled **Malevolent Ritualists** reside. I think it goes without saying that you need to go pay them a visit and give them a nice hug.
 
 Y'know, as you do.
+
+<figure markdown="span">
+  ![Malevolent Ritualists](../../assets/img/PoH/PoH-Ritualist.png){ width="700" }
+  <figcaption>Malevolent Ritualist in Bigfoot quality</figcaption>
+</figure>
+
 
 There are a couple of ways to locate these wonderful beings:
 
@@ -44,7 +50,7 @@ There are a couple of ways to locate these wonderful beings:
 
     Wander around only using your radar to find out where the Wizards reside.
 
-Pretty straightforward yeah? Here's the map in case you want to use it.
+Here's the map in case you want to use it.
 
 <figure markdown="span">
   ![The Harrow](../../assets/img/PoH/PoH-Harrow.png){ width="700" }

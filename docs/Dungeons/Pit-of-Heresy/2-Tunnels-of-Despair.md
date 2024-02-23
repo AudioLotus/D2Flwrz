@@ -57,6 +57,13 @@ When it does, it will drop a **Void Charge**, which is what you need to deposit 
 
 Take this charge, *carefully* peek out of one of the holes to see if you're in the clear, and book it to the end of the lane. Dunk the charge and a seal is broken.
 
+<figure markdown="span">
+  ![Extinguished flame and a remaining seal](../../assets/img/PoH/PoH-Tunnel-Seal.png){ width="700" }
+  <figcaption>Extinguished flame and a remaining seal</figcaption>
+</figure>
+
 Now you just need to do this two more times to move forward. Easy enough, yeah? Honestly the hardest part is just navigating through everything without getting lost and making sure you don't get blasted by the ogres.
 
 Move in to the next room to find a fun little prayer group happening.
+
+

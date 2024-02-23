@@ -22,7 +22,7 @@ Does it need much repeating here? Everyone can work together or separate really.
 
 ### Details
 
-Pay attention to each of the towers in the arena. Each one houses a specific Disciple (the main enemies from the first encounter). Looking at the arena, from left to right, they contain the**Knight**, **Shrieker**, and **Wizard** respectively.
+Pay attention to each of the towers in the arena. Each one houses a specific Disciple (the main enemies from the [first encounter](1-The-Necropolis.md)). Looking at the arena, from left to right, they contain the**Knight**, **Shrieker**, and **Wizard** respectively.
 
 Keep an eye out on the pedestals around. These spawn adds.
 
@@ -39,6 +39,11 @@ Like most of the dungeon here, things are fairly straightforward. The encounter 
 Your first order of action is to kill one of the **Accursed Swordbearers** and take the relic sword they drop.  
 
 Then, you'll go to into each of the towers mentioned above and play rock-paper-scissors to kill the resident Disciple. When they die, they'll drop a **Void Charge**, which you need to dunk in one of the three points around. They're fairly easy to spot as they're placed in front of each tower.
+
+<figure markdown="span">
+  ![View of towers and Zulmak](../../assets/img/PoH/PoH-Zulmak.png){ width="700" }
+  <figcaption>Three towers with  Zulmak in the center</figcaption>
+</figure>
 
 If for some reason you lose one, no sweat. When all Disciples are killed, orbs will spawn in each tower. This is honestly pretty nice as you don't have to wait for them to respawn or something.
 
